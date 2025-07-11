@@ -18,7 +18,6 @@
       $col = $key % 9; 
       $row = ($key - $col) / 9;
       $grid[$row][$col] = intval($str);
-      echo '<br />';
     }
     return $grid;
   }
