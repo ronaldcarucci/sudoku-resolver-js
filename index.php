@@ -1,5 +1,5 @@
+<!doctype html>
 <?php include_once('./grids.php'); ?>
-<!DOCTYPE html>
 <html>
   <?php
     $grid = $gettedGrid;
